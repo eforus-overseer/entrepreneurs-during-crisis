@@ -15,4 +15,4 @@ Text Analysis and textual data generation based on a survey messaruing sentiment
 
 ![Pixel-art cover for entrepreneurs-during-crisis](assets/project-cover.png)
 
-<sub>Pixel-art adaptation of [Volodymyr Zelenskyy Presented Ukraine's Internal Resilience Plan on 19 november 2024 - 1](https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_Presented_Ukraine%27s_Internal_Resilience_Plan_on_19_november_2024_-_1.jpg) by President Of Ukraine, licensed [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: Wikimedia Commons.</sub>
+<sub>Pixel-art adaptation of [OpenMoji briefcase](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F4BC.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
