@@ -8,3 +8,11 @@ Text Analysis and textual data generation based on a survey messaruing sentiment
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/entrepreneurs-during-crisis/) — Explore the project, its method, and available demos or original artifacts.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for entrepreneurs-during-crisis](assets/pixel-art.svg)
+
+A small visual signature for this repository.
