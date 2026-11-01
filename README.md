@@ -11,8 +11,8 @@ Text Analysis and textual data generation based on a survey messaruing sentiment
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for entrepreneurs-during-crisis](assets/pixel-art.svg)
+![Pixel-art cover for entrepreneurs-during-crisis](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [Volodymyr Zelenskyy Presented Ukraine's Internal Resilience Plan on 19 november 2024 - 1](https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_Presented_Ukraine%27s_Internal_Resilience_Plan_on_19_november_2024_-_1.jpg) by President Of Ukraine, licensed [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en). Source: Wikimedia Commons.</sub>
